@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Shariiii/Anomic-Stuff/main/Main%20Bypass.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Raisaga/anomicgui/main/Main%20Bypass.lua", true))()
 local SP = game:GetService("StarterPlayer")
 local CharScripts = SP:WaitForChild("StarterCharacterScripts",100)
 local player = game.Players.LocalPlayer
